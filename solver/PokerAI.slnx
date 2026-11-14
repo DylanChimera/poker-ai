@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PokerAI.App/PokerAI.App.csproj" />
+  <Project Path="PokerAI.Tests/PokerAI.Tests.csproj" />
+</Solution>
